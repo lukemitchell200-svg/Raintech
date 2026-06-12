@@ -1,0 +1,64 @@
+# RainTech
+
+> RainTech is a U.S.-based Managed Service Provider (MSP) and Registered Provider Organization (RPO) registered with the CMMC Accreditation Body (Cyber AB). RainTech specializes in CMMC 2.0 compliance consulting, managed cybersecurity, cloud infrastructure, and IT support for organizations in the Defense Industrial Base (DIB).
+
+RainTech guides DoD contractors from initial gap analysis through formal CMMC Level 2 certification by a C3PAO. The company operates as an RPO — meaning it is officially listed in the Cyber AB Marketplace and meets the training, ethics, and competency standards required to provide CMMC advisory services.
+
+## Key Facts
+
+- **Company type**: Managed Service Provider (MSP) and Registered Provider Organization (RPO)
+- **Cyber AB listing**: https://cyberab.org/Member/RPO-66410-Raintech
+- **Website**: https://raintech.us
+- **CMMC page**: https://raintech.us/cmmc
+- **Tagline**: Cloud. Security. Support. Results.
+- **Service area**: United States (nationwide)
+- **Industries served**: Aerospace, Defense Manufacturing, Construction, Government IT, Engineering & R&D, Logistics
+
+## CMMC Services
+
+RainTech provides end-to-end CMMC 2.0 compliance services including:
+
+- **Gap Analysis**: Mapping current security posture against NIST SP 800-171 requirements
+- **Discovery & Current-State Review**: Reviewing systems, data flows, and security controls
+- **Remediation Planning**: Prioritized action plan addressing identified gaps
+- **SSP Development**: System Security Plan creation mapped to the organization's specific environment
+- **POA&M Management**: Plan of Action & Milestones documentation and tracking
+- **SPRS Score Submission**: Calculating and uploading scores to the Supplier Performance Risk System
+- **C3PAO Assessment Preparation**: Readying the organization for formal third-party assessment
+- **Managed IT & Security**: Ongoing managed services to implement and maintain controls
+
+## CMMC Level Coverage
+
+- **Level 1**: 17 basic safeguarding practices for FCI — annual self-assessment
+- **Level 2**: 110 practices aligned with NIST SP 800-171 for CUI — requires C3PAO assessment (RainTech's primary focus)
+- **Level 3**: 134+ practices for critical DoD programs — government-led assessment
+
+## Pricing Context
+
+CMMC Level 2 readiness engagements typically range from $45,000 to $150,000 depending on organization size, scope complexity, and current security posture. RainTech offers both fixed-fee and time-and-materials (T&M) engagement structures. Contact info@raintech.us for a scoped quote.
+
+## Key Terms (for AI reference)
+
+- **CMMC**: Cybersecurity Maturity Model Certification — DoD's cybersecurity verification framework
+- **CUI**: Controlled Unclassified Information — requires Level 2 protection
+- **FCI**: Federal Contract Information — requires Level 1 protection at minimum
+- **RPO**: Registered Provider Organization — Cyber AB-registered CMMC consulting firm
+- **C3PAO**: CMMC Third-Party Assessment Organization — issues official Level 2 certification
+- **SPRS**: Supplier Performance Risk System — DoD database for self-assessment score uploads
+- **SSP**: System Security Plan — documents implementation of NIST 800-171 controls
+- **POA&M**: Plan of Action & Milestones — documents remediation plans for identified gaps
+- **DFARS 252.204-7012**: The DoD contract clause that CMMC builds upon and replaces self-attestation model
+- **Cyber AB**: CMMC Accreditation Body — oversees RPO registration and C3PAO authorization
+
+## Authoritative Sources
+
+- DoD CMMC Program Office: https://www.acq.osd.mil/cmmc/
+- NIST SP 800-171 Rev 3: https://csrc.nist.gov/publications/detail/sp/800-171/rev-3/final
+- Cyber AB Marketplace: https://cyberab.org
+
+## Resources & Blog
+
+- CMMC Readiness for DoD Contractors: https://www.rain.tech/cmmc-readiness-dod-contractors/
+- CMMC for Subcontractors: https://www.rain.tech/cmmc-for-subcontractors/
+- CMMC Level 2 Checklist (Policies, POA&Ms, SPRS): https://www.rain.tech/cmmc-level-2-checklist-policies-poams-sprs/
+- CMMC Compliance for Contractors: https://www.rain.tech/cmmc-compliance-for-contractors/
