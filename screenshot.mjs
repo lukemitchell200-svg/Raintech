@@ -18,7 +18,7 @@ const outFile = path.join(dir, `screenshot-${n}${label ? `-${label}` : ''}.png`)
 
 // Try common Chrome locations
 const chromePaths = [
-  'C:/Users/lukem/.cache/puppeteer/chrome/win64-131.0.6778.85/chrome-win64/chrome.exe',
+  'C:/Users/lukem/.cache/puppeteer/chrome/win64-149.0.7827.22/chrome-win64/chrome.exe',
   'C:/Users/nateh/.cache/puppeteer/chrome/win64-131.0.6778.85/chrome-win64/chrome.exe',
   'C:/Program Files/Google/Chrome/Application/chrome.exe',
   'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe',
