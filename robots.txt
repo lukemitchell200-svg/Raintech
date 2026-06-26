@@ -1,4 +1,5 @@
-User-agent: *
+﻿User-agent: *
 Allow: /
 
-Sitemap: https://raintech.us/sitemap.xml
+Sitemap: https://usgov.cloud/sitemap.xml
+
