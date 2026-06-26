@@ -21,7 +21,7 @@ module.exports = {
         }
       },
       fontFamily: {
-        display: ['"Barlow Condensed"', 'sans-serif'],
+        display: ['Tahoma', 'sans-serif'],
         body: ['Inter', 'sans-serif']
       },
       letterSpacing: {
